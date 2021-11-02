@@ -1,6 +1,6 @@
 {
   "name": "@eritbh/eslint-config-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": ".eslintrc.json",
   "repository": "https://github.com/eritbh/eslint-config-typescript",
   "author": "eritbh",
