@@ -5,7 +5,7 @@
   "repository": "https://github.com/eritbh/eslint-config-typescript",
   "author": "eritbh",
   "license": "Unlicense",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.3.0",
     "eslint-plugin-new-with-error": "^2.0.0"
   }
