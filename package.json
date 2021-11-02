@@ -7,6 +7,7 @@
   "license": "Unlicense",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.3.0",
+    "@typescript-eslint/parser": "^5.3.0",
     "eslint-plugin-new-with-error": "^2.0.0"
   }
 }
